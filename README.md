@@ -13,7 +13,7 @@
 </p> 
 
 ## 💻 Video
-
+https://github.com/K3rnel-Dev/KnightLNK_builder/assets/132711888/9de22886-be81-4b72-b174-acb8fa52af99
 
 
 
