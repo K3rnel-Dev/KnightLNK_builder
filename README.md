@@ -23,7 +23,7 @@ https://github.com/K3rnel-Dev/KnightLNK_builder/assets/132711888/9de22886-be81-4
 
 ## ⚠️ Disclaimer
  * This project for education and purposes only!
- * Do not use for illegal purposes!
+ * Do not use for illegal purposes onyl!.
 
 ## ✨ End
 <strong>Thanks for watching</strong>
