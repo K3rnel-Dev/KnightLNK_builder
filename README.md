@@ -4,7 +4,7 @@
 
 ## 📑 About
 </b>(Knight-LNK BUILDER) Lnk-Dropper Builder on C# Language</b>
-<strong>A simple builder for creating reference files to remote files with subsequent installation and hide launch.</strong>
+<strong><br>A simple builder for creating reference files to remote files with subsequent installation and hide launch.</strong>
 
 ## 💻 Screens
 <p float="left" align="center">
